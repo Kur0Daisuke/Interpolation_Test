@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: black;
+}
+
+.canvas{
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 2px solid black;
+}
+
+p{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: white;
+	font-size: 50px;
+}
+
+h6{
+	position: absolute;
+	color: white;
+	left: 50%;
+	top: 65%;
+
+}
