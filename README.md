@@ -1,4 +1,6 @@
 # Interpolation_Test
-Interpolation test (Bezier Curve) written in pure Javascript. 
+Interpolation test (Bezier Curve) written in pure `Javascript`. 
 
-Go to https://kur0daisuke.github.io/Interpolation_Test/ in order to view quickly
+Click this [Link](https://kur0daisuke.github.io/Interpolation_Test/) in order to view quickly
+
+> @Kur0Daisuke test creations
